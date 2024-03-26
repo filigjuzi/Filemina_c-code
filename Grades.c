@@ -6,7 +6,7 @@
 
 int main()
 {
-	printf("Enter points 0-100");
+	printf("Enter points in a range 0-100");
 	int points;
 	scanf("%d", & points);
 	switch (points/10) {
